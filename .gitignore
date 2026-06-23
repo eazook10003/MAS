@@ -1,0 +1,20 @@
+# 큰/재생성 가능 폴더 — GitHub 에 안 올림
+models/
+envs/
+vllm_env/
+langgraph/
+crewAI/
+data/
+
+# 실험 출력 (런마다 생성, 거대)
+logs/
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# 임시
+*.tmp
